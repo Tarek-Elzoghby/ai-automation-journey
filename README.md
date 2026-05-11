@@ -13,7 +13,7 @@ Tarek Alaa Elzoghby. Based in Cairo, Egypt.
 Currently transitioning into AI/ML engineering and AI automation development.
 Python background. Building from there.
 
-X: [@TarekAlaaElz](https://x.com/tarekzogby)
+X: [@tarekzogby](https://x.com/tarekzogby)
 
 ---
 
